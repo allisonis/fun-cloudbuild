@@ -1,2 +1,2 @@
 # fun-cloudbuild
-Cloudbuild fun
+Cloudbuild fun for all

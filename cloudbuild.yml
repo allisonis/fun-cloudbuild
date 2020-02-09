@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: [ 'build', '-t', 'gcr.io/silent-space-225818/quickstart-image', '.' ]
+images:
+- 'gcr.io/silent-space-225818/quickstart-image'
